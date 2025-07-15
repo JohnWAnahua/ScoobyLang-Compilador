@@ -1,3 +1,10 @@
+APLICADOS
+/////////////////////////////////////////
+int x;
+int y;
+x = 10;
+y = (x + 2) * 3;
+print(y);
 /////////////////////////////////////////
 int a;
 int b;
@@ -13,6 +20,8 @@ resultado = (a + b) / 2;
 print ("El resultado final entre a y b es:");
 print (resultado);
 /////////////////////////////////////////
+EXTRAS
+/////////////////////////////////////////
 int a;
 int b;
 int c;
@@ -21,21 +30,6 @@ b = 4;
 c = (a + b) * 2;
 print("Resultado de (a + b) * 2:");
 print(c);
-/////////////////////////////////////////
-int x;
-int y;
-x = 10;
-y = x + 20;
-print("El valor de y es:");
-print(y);
-/////////////////////////////////////////
-int total;
-total = 100;
-print("Total inicial:");
-print(total);
-total = total - 25;
-print("Total luego de restar 25:");
-print(total);
 /////////////////////////////////////////
 int base;
 int altura;
@@ -51,5 +45,4 @@ print(area);
 area = area / 2;
 print("La mitad del área es:");
 print(area);
-/////////////////////////////////////////
 /////////////////////////////////////////

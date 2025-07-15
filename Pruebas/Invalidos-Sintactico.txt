@@ -1,40 +1,9 @@
 //////////////////////////////////////////////
-int a;
-int b;
-int resultado;
-a = 5 + 3;
-b = a * 2;  
-print ("Valor de a");
-print (a);
-print ("Valor de b");
-print (b);
-
-resultado = (a + b)  2;
-print ("El resultado final entre a y b es:");
-print (resultado);
+int a
+print(a);
 //////////////////////////////////////////////
-int a;
-int b;
-a = 3;
-b = 4;
-c = (a + b) * 2;
-print("Resultado de (a + b) * 2:");
-print(c);
-//////////////////////////////////////////////
-int x;
-int y;
 x = 10;
-y = x + 20
-print("El valor de y es:");
-print(y);
-//////////////////////////////////////////////
-int total;
-total = 100;;
-print("Total inicial:");
-print(total);
-total = total - 25;
-print("Total luego de restar 25:");
-print(total);
+print(x);
 //////////////////////////////////////////////
 int base;
 int altura;
@@ -42,12 +11,23 @@ int area;
 
 base = 10;
 altura = 4;
-area = base * altura;
+area = base  altura;
 
 print("Área del rectángulo:");
 print(area);
 
 area = area / 2;
 print("La mitad del área es:");
-print(area;
+print(area);
+//////////////////////////////////////////////
+int a;
+int b;
+int c;
+a = 3;
+b = 4;
+c = (a + b) * 2;
+print("Resultado de (a + b) * 2:);
+print(c);
+//////////////////////////////////////////////
+
 //////////////////////////////////////////////
