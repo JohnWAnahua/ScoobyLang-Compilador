@@ -36,3 +36,8 @@ ScoobyLang-Analizador/
 │ └── Invalidos-Sintactico # Codigo con errores léxicos/sintácticos
 ├── README.md # Documentacion del proyecto
 ├── requirements.txt # Dependencias Python
+
+👨‍🎓 Estudiantes:
+Jhon Williams Anahua Layme — Código: 2021-119062
+Marcos Samuel Huayna Cama — Código: 2022-119031
+Juan Luis Mamani Mullo — Código: 2021-119123
