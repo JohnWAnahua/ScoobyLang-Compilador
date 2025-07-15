@@ -1,0 +1,12 @@
+# Paquetes Python necesarios para el analizador léxico - sintáctico
+
+ply==3.11                # Generador de lexer y parser (LEX/YACC para Python)
+graphviz==0.20.1         # Biblioteca para crear gráficos de estructuras (AST)
+
+# tkinter viene incluido con Python estándar, no necesita instalación adicional
+
+# Nota importante sobre Graphviz:
+	Este paquete requiere la instalación del software Graphviz en el sistema operativo.
+	 - Windows: https://graphviz.org/download/
+ 	 - Linux (Debian/Ubuntu): sudo apt-get install graphviz
+ 	 - macOS (Homebrew): brew install graphviz
